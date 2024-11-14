@@ -31,3 +31,4 @@ int main()
     cout<<"End."<<endl<<endl<<"Sum of numbers is : "<<sum<<endl<<"Mean of numbers is : "<<sum/(i-1)<<endl;
     return 0;
 }
+//MadMad_34

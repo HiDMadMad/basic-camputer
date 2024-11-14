@@ -13,3 +13,4 @@ time.sleep(1) # کرم.
 #                                                                      +--> منهای یک کردم که صفر اخر رو حساب نکنه  
 #                                                                      |
 print("\nSum of numbers is : ", sum, "\nMean of numbers is : ", sum/(i-1), "\n\n")
+#MadMad_16
