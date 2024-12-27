@@ -89,9 +89,9 @@ void PrintArray(float AList[], int ListRange)
     cout<<"End.";
 }
 
-void GetArray(float AList[], int num)
+void GetArray(float AList[], int ListRange)
 {
-    for(int i=0; i<num; i++)
+    for(int i=0; i<ListRange; i++)
     {
         cin>>AList[i];
     }
