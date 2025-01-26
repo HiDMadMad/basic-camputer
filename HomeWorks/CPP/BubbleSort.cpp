@@ -1,6 +1,15 @@
 #include<iostream>
 using namespace std;
 
+void GetArray(float AList[], int ListRange)
+{
+    for(int i=0; i<ListRange; i++)
+    {
+        cin>>AList[i];
+    }
+}
+
+
 void PrintArray(float AList[], int ListRange)
 {
     for(int i=0; i<ListRange; i++)
@@ -10,21 +19,14 @@ void PrintArray(float AList[], int ListRange)
     cout<<"End.";
 }
 
-void GetArray(float AList[], int ListRange)
-{
-    for(int i=0; i<ListRange; i++)
-    {
-        cin>>AList[i];
-    }
-}
 
 void BubbleSort(float AList[], int ListRange)
 {
-    int Replaced=1, i, tmp;
+    int Replaced=1, tmp;
     while(Replaced!=0)
     {
         Replaced=0;
-        for(i=0; i<(ListRange-1); i++)
+        for(int i=0; i<(ListRange-1); i++)
         {
             if(AList[i]>AList[i+1])
             {
@@ -49,4 +51,4 @@ int main()
 
     return 0;
 }
-//MadMad_52
+//MadMad_54

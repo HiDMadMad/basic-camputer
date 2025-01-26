@@ -42,13 +42,13 @@ int main()
         }
         if((num1+num2)==0) // یعنی باقی مانده 0 شده
         {
-            cout<<"Answer = "<<ans-1<<endl<<"Remaining = "<<num1+num2;;
+            cout<<"Answer = "<<ans-1<<endl<<"Remaining = 0";
         }
         else
         {
             cout<<"Answer ≈ "<<ans-1<<endl<<"Remaining = "<<num1+num2;
-            /*                                   |
-										  +--> باقی مانده  */
+            /*                                             |
+                                                           +--> باقی مانده  */
         }
 
     }
@@ -58,7 +58,7 @@ int main()
         cout<<endl<<"D-Bug : num1 < num2"<<endl;
         cout<<"Answer < 1   =) "<<endl;
     }
-	
+
 	else
 	{
 		cout<<"wtf are u doing??";
