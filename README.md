@@ -1,7 +1,7 @@
 # 💫 About Repository:
 اسم فایل اینجا با اسمی که توی فیگما هست یکیه<br>
-!(https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) //MadMad_تعداد خط کد <br>
-!(https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) `#MadMad_تعداد خط کد` <br>
+![](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) //MadMad_تعداد خط کد <br>
+![](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) `#MadMad_تعداد خط کد` <br>
 ⚠️ اگه تعداد خط کد یکی نبود، یجای کار میلنگه
 
 # 💻 Tech Stacks:  
